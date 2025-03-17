@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "sans.h": "c",
+        "sans_socket.h": "c"
+    }
+}
